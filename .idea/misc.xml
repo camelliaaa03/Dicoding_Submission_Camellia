@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/drawable-v24/container_search.xml" value="0.1" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.1" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1495" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/drawable/rectangle_corner.xml" value="0.132" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/font/montseratt.xml" value="0.25076923076923074" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/font/roboto.xml" value="0.25076923076923074" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu1.xml" value="0.25" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu10.xml" value="0.21041666666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu2.xml" value="0.22447916666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu3.xml" value="0.22447916666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu4.xml" value="0.22447916666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu5.xml" value="0.14722222222222223" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu6.xml" value="0.22447916666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu7.xml" value="0.22447916666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu8.xml" value="0.21041666666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_detail_sepatu9.xml" value="0.22447916666666667" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_sepatu.xml" value="0.22395833333333334" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/item_grid_sepatu.xml" value="0.22395833333333334" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/layout/item_row_sepatu.xml" value="0.22395833333333334" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/project_android/dicoding_submission/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1495" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

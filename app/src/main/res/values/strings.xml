@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">dicoding_submission</string>
+    <string name="sepatu_name">Nama Item</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <!-- Detail Item -->
+    <string name="content_text">PVN sneakers adalah sepatu sneakers yang nyaman di gunakan untuk jalan-jalan, untuk kuliah dll. Sneakers merupakan sepatu casual yang menarik untuk dijadi koleksi dengan berbagai jenis dan motif yang beragam. Tersedia berbagai macam size untuk ukuran kaki, proses pengiriman akan dilakukan setelah 24 jam setelah proses pembayaran kami terima, dan pengiriman akan di lakukan selama hari kerja.</string>
+    <string name="content_specs_deskripsi">Tinggi Sol : 5 cm.\n
+        Material Sepatu  : High Quality kulit Sintetis.\n
+        Material Sole: Karet Non Slip</string>
+    <string name="content_specs_size">36(1) : 22.5cm, 37(2) : 23cm, 38(3) : 23.5cm, 39(4) : 24cm, 40(5) : 24.5cm</string>
+    <string name="content_specs_varian">Cream\n
+    Jeonghan-Choco\n
+    Taecyeon-Cream\n
+    Jungkook-Grey\n
+    Jungkook-Cream\n
+    Jeonghan-Black\n
+    White\n</string>
+    <string name="stock">Stock hanya 10 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="size">Size</string>
+    <string name="variation">Variation</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Camellia Alfina Hanif</string>
+    <string name="buy">Buy</string>
+    <string name="dummy_value">Rp159.999</string>
+    <string name="dummy_photos">5 photos</string>
+</resources>
